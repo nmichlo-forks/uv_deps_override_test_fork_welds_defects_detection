@@ -9,7 +9,7 @@ dependencies = [
     "numpy==1.26.4",
     "matplotlib==3.9.0",
     "ultralytics==8.2.32",
-    "sahi==0.11.16",
+    "sahi==0.11.9",
 ]
 requires-python = ">=3.9"
 
